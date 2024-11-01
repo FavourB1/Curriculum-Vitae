@@ -1,16 +1,14 @@
-# Curriculum-Vitae
-## Career in the Bag
+# Favour Boluwade
+## Profession in the Bag
 
+**Graduate Assistant, Burnett Honors College, University of Central Florida**
 
-# [Your Name]
-**[Your Job Title]**
-
-[Email Address] • [Phone Number] • [LinkedIn Profile](https://www.linkedin.com/in/your-profile/) • [GitHub Profile](https://github.com/your-username) • [Portfolio Website](https://your-website.com)
+Favour.boluwade@ucf.edu • [LinkedIn Profile](www.linkedin.com/in/favour-boluwade)  • [Portfolio Website](https://favourb1.github.io/Welcome-to-my-World/https://your-website.com)
 
 ---
 
 ## Professional Summary
-A concise, 2-3 sentence summary that highlights your professional background, key skills, and what you aim to achieve in your career. Focus on your unique strengths and experience that align with your career goals.
+Communications specialist, writer, interested in digital media research, experienced in brand management, digital advertising, print and broadcast journalism.
 
 ---
 
@@ -27,9 +25,9 @@ A concise, 2-3 sentence summary that highlights your professional background, ke
 
 ## Work Experience
 
-**[Job Title]**  
-[Company Name], [City, Country]  
-[Month, Year – Month, Year]
+**[Formatting Consultant]**  
+[Burnett Honors College], [Orlando, Florida]  
+[August, 2024 – current]
 
 - Briefly describe your role and responsibilities.
 - Highlight key achievements, projects, and skills demonstrated.
@@ -47,9 +45,9 @@ A concise, 2-3 sentence summary that highlights your professional background, ke
 
 ## Skills
 
-**Technical Skills**: List programming languages, tools, and technologies (e.g., Python, JavaScript, HTML/CSS, SQL, Git, etc.)
+**Technical Skills**: Programming tools - Python, HTML/CSS. Generative AI tools - Copilot, ChatGPT, Runway, Descript. Management tools - Microsoft Office, Canva. Editing tools - Adobe Audition, Lightroom
 
-**Soft Skills**: List interpersonal skills (e.g., leadership, communication, teamwork, problem-solving)
+**Soft Skills**:  Interpersonal skills, photography, singing/songwriting, public speaking
 
 ---
 
@@ -76,8 +74,7 @@ A concise, 2-3 sentence summary that highlights your professional background, ke
 
 ## Languages
 
-- **[Language 1]**: [Proficiency level, e.g., native, fluent, intermediate]
-- **[Language 2]**: [Proficiency level]
+- **[English and Yoruba]**: Native
 
 ---
 
