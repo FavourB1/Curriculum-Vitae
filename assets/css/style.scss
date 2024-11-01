@@ -1,0 +1,71 @@
+/* General page layout */
+#content-wrapper {
+  display: flex;
+}
+
+#main-content {
+  flex: 1; /* Takes the remaining space */
+  padding: 20px;
+  color: black; /* Set text color to black for main content */
+}
+
+#sidebar {
+  width: 250px; /* Adjust width as necessary */
+  padding: 20px;
+  background-color: #000000; /* Background color for sidebar */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  color: white; /* Set text color to white for sidebar */
+}
+
+.button {
+  display: block; /* Make links appear as buttons */
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #000000; /* Button color */
+  color: white; /* Text color for buttons */
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #001DFF; /* Darker on hover */
+}
+
+@media (max-width: 768px) {
+  #content-wrapper {
+    flex-direction: column; /* Stack content on top of each other */
+  }
+  #sidebar {
+    width: 100%; /* Full width on small screens */
+    box-shadow: none; /* Optional: Remove shadow */
+  }
+}
+
+/* Import theme styles */
+@import "{{ site.theme }}";
+
+/* Custom color variables */
+$mycolor: black; /* Set color to black for general content */
+$headingcolor: coral; /* Set heading color to coral */
+
+/* Main header styles */
+header {
+  background: $mycolor; /* Background color for header */
+  color: white; /* Text color in the header */
+}
+
+/* Header and sidebar buttons */
+header a.button, aside a.button {
+  background: $mycolor; /* Button color in header and sidebar */
+}
+
+/* Set specific heading colors */
+#main-content h1, #main-content h2, #main-content h3,
+#main-content h4, #main-content h5, #main-content h6 {
+  color: coral; /* Set all heading colors to coral */
+}
+
+#main-content p {
+  color: black; /* Ensures all paragraph text is black */
+}
