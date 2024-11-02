@@ -3,7 +3,7 @@
 
 **Graduate Assistant, Burnett Honors College, University of Central Florida**
 
-Favour.boluwade@ucf.edu • [LinkedIn Profile](www.linkedin.com/in/favour-boluwade)  • [Portfolio Website](https://favourb1.github.io/Welcome-to-my-World/https://your-website.com)
+Favour.boluwade@ucf.edu • [LinkedIn Profile]([www.linkedin.com/in/favour-boluwade)  • [Portfolio Website](https://favourb1.github.io/Welcome-to-my-World/https://your-website.com)
 
 ---
 
