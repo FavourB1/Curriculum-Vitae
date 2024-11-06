@@ -19,6 +19,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
 •	Conduct regular performance analysis of marketing campaigns and sales activities, identifying areas for optimization and implementing strategic adjustments to maximize results.
 
+---
 
 **08/2021 – 05/2023 | Graduate Assistant, Editor and Writing Tutor | Middle Tennessee State University (Writing Center)**  
 
@@ -30,6 +31,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
 •	Help promote the Writing Center through class visits by presenting and sharing information via PowerPoint and proficiency in Microsoft Office applications, and desktop publishing programs.
 
+---
 
 **05/2022 - 08/2022 | News and Media Relations intern | Middle Tennessee State University**  
 
@@ -39,6 +41,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
 •	Photograph people, places, and events to support written stories for online publication on mtsunews.com and MTSU’s social media platforms.
 
+---
 
 **10/2020 - 06/2021 | Radio Show Host Royal Roots Radio | Ibadan, Nigeria**  
 
@@ -47,6 +50,8 @@ Communications specialist and writer, interested in digital media research. Has 
 •	Reach out to listeners via traditional radio and online streaming platforms.
 
 •	Promote jingles through voiceover for products’ marketing.
+
+ ---
  
 **11/2018 - 08/2021 | Journalist (Senior Reporter) | African Newspapers of Nigeria - Publisher, Nigerian Tribune**
 
