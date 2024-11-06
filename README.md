@@ -9,7 +9,7 @@ Communications specialist and writer, interested in digital media research. Has 
 ---
 
 ## Work Experience
-**08/2023 – 03/2024 | Marketing Communication Specialist | Vision International, Florida**  
+### **08/2023 – 03/2024 | Marketing Communication Specialist | Vision International, Florida**  
 
 •	Collaborate on indirect marketing campaigns, including the government’s Affordable Connectivity Program and Affordable Care Act initiatives, aimed at providing essential services in the United States.
 
@@ -21,7 +21,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
 ---
 
-**08/2021 – 05/2023 | Graduate Assistant, Editor and Writing Tutor | Middle Tennessee State University (Writing Center)**  
+### **08/2021 – 05/2023 | Graduate Assistant, Editor and Writing Tutor | Middle Tennessee State University (Writing Center)**  
 
 •	Teach, tutor, and offer advisory services on assignments, research projects and other forms of writing for students, clients, and visitors at the Center, through Microsoft Office, Adobe Acrobat, Google office tools.
 
@@ -33,7 +33,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
 ---
 
-**05/2022 - 08/2022 | News and Media Relations intern | Middle Tennessee State University**  
+### **05/2022 - 08/2022 | News and Media Relations intern | Middle Tennessee State University**  
 
 •	Assist with copywriting, news writing, editing, and proofreading of features, interviews, and publicity content through Outlook office.
 
@@ -43,7 +43,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
 ---
 
-**10/2020 - 06/2021 | Radio Show Host Royal Roots Radio | Ibadan, Nigeria**  
+### **10/2020 - 06/2021 | Radio Show Host Royal Roots Radio | Ibadan, Nigeria**  
 
 •	Co-host of ‘The Couch,’ a weekly live radio, discussing topics relating to women, gender, career, and relationships.
 
@@ -53,7 +53,7 @@ Communications specialist and writer, interested in digital media research. Has 
 
  ---
  
-**11/2018 - 08/2021 | Journalist (Senior Reporter) | African Newspapers of Nigeria - Publisher, Nigerian Tribune**
+### **11/2018 - 08/2021 | Journalist (Senior Reporter) | African Newspapers of Nigeria - Publisher, Nigerian Tribune**
 
 •	Over one hundred published writings by Favour Boluwade, journaling on health, politics, lifestyle and entertainment, education, tourism, and business.
 
