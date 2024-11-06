@@ -91,6 +91,15 @@ Middle Tennessee State University, 2023
 •	Digital marketing, Meta, 2019 	
 
 ---
+
+## Conference Presentation
+
+•Southeastern Writing Center Association, Memphis, 2023
+
+Favour Boluwade: “Tutoring Strategies for different Writing Identities”
+
+---
+
 ## Published Writings
 
 ### Documented by Muck rack
