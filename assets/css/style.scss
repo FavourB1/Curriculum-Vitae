@@ -1,4 +1,6 @@
-/* General page layout */
+---
+---
+
 #content-wrapper {
   display: flex;
 }
@@ -6,66 +8,90 @@
 #main-content {
   flex: 1; /* Takes the remaining space */
   padding: 20px;
-  color: black; /* Set text color to black for main content */
 }
 
 #sidebar {
   width: 250px; /* Adjust width as necessary */
   padding: 20px;
-  background-color: #000000; /* Background color for sidebar */
+  background-color: #1D00FC; /* Example background color */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  color: white; /* Set text color to white for sidebar */
 }
 
 .button {
   display: block; /* Make links appear as buttons */
   padding: 10px;
   margin: 5px 0;
-  background-color: #000000; /* Button color */
-  color: white; /* Text color for buttons */
+  background-color: #007BFF; /* Example button color */
+  color: white;
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
 }
 
 .button:hover {
-  background-color: #001DFF; /* Darker on hover */
+  background-color: #0056b3; /* Darker on hover */
 }
 
 @media (max-width: 768px) {
   #content-wrapper {
     flex-direction: column; /* Stack content on top of each other */
   }
+
   #sidebar {
     width: 100%; /* Full width on small screens */
     box-shadow: none; /* Optional: Remove shadow */
   }
 }
 
-/* Import theme styles */
 @import "{{ site.theme }}";
 
-/* Custom color variables */
-$mycolor: black; /* Set color to black for general content */
-$headingcolor: coral; /* Set heading color to coral */
+$mycolor: black;
+    $headingcolor: black;
 
-/* Main header styles */
 header {
-  background: $mycolor; /* Background color for header */
-  color: white; /* Text color in the header */
+
+    background: $mycolor;
+
 }
 
-/* Header and sidebar buttons */
-header a.button, aside a.button {
-  background: $mycolor; /* Button color in header and sidebar */
+header a.button {
+
+    background: $mycolor
+
 }
 
-/* Set specific heading colors */
-#main-content h1, #main-content h2, #main-content h3,
-#main-content h4, #main-content h5, #main-content h6 {
-  color: coral; /* Set all heading colors to coral */
+aside a.button {
+
+    background: $mycolor
+
 }
 
-#main-content p {
-  color: black; /* Ensures all paragraph text is black */
+#main-content h2:before {
+
+    color: $mycolor;
+
 }
+
+#main-content h1:before {
+
+    color: $mycolor;
+
+}
+
+#main-content h3 {
+
+    color: $mycolor;
+
+  }
+
+  #main-content h4 {
+
+    color: $mycolor;
+
+  }
+
+  #main-content h6 {
+
+    color: $mycolor;
+
+ }
