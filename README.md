@@ -1,21 +1,24 @@
-# [Your Name]
-**[Your Job Title]**
+# Favour Boluwade
+*Graduate Assistant/Format Consultant, Burnett Honors College*
 
-[Email Address] • [Phone Number] • [LinkedIn Profile](https://www.linkedin.com/in/your-profile/) • [GitHub Profile](https://github.com/your-username) • [Portfolio Website](https://your-website.com)
-
----
+[tobibolus@gmail.com]  • [[LinkedIn Profile](https://www.linkedin.com/in/favour-boluwade/)]
 
 ## Professional Summary
-A concise, 2-3 sentence summary that highlights your professional background, key skills, and what you aim to achieve in your career. Focus on your unique strengths and experience that align with your career goals.
+Communications specialist and writer, interested in digital media research. Has experience in brand management, digital advertising, journalism, media relations. Multi-talented, with strong written, verbal communication and exceptional people skills, with ability to multitask, work independently and in teams.
 
 ---
 
 ## Education
 
-**[Degree, e.g., Bachelor of Science in Computer Science]**  
-[University Name], [City, Country]  
-[Month, Year – Month, Year or Expected Graduation Date]
+**Bachelor of Arts in Literature in English**  
+Obafemi Awolowo University, 2017
 
+**Master of Arts in Liberal Arts**  
+Middle Tennessee State University, 2023 
+
+**[Degree, e.g., Bachelor of Arts in Literature in English]**  
+[Obafemi Awolowo University], [Ile Ife, Nigeria]  
+[Month, Year – Month, Year or Expected Graduation Date]
 - Relevant coursework: Course 1, Course 2, Course 3
 - Honors and awards: Award 1, Scholarship 2
 
