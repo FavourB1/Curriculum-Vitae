@@ -1,7 +1,5 @@
-remote_theme: jekyll/minima
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-remote-theme
-
-title: "Curriculum Vitae"
-description: "Favour Boluwade"
-
+- jekyll-remote-theme
+title: Curriculum-Vitae
+description: 
