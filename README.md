@@ -105,11 +105,5 @@ Favour Boluwade: “Tutoring Strategies for different Writing Identities”
 
 ---
 
-## Published Writings
-
-### Documented by Muck rack
-
----
-
 **References available upon request.**
 
